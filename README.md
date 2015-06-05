@@ -12,4 +12,4 @@
 3. sudo apt-get install oracle-java7-installer              // Скачиваем java SDK
 4. sudo apt-get install tomcat7                             // Скачиваем web сервер Tomcat
 5. sudo apt-get install mysql-server                        // Скачиваем базу данных MySQL
-6. 
+6. test
