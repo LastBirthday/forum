@@ -12,4 +12,5 @@
 3. sudo apt-get install oracle-java7-installer              // Скачиваем java SDK
 4. sudo apt-get install tomcat7                             // Скачиваем web сервер Tomcat
 5. sudo apt-get install mysql-server                        // Скачиваем базу данных MySQL
-6. test
+6. Запускаем IDEA. Открываем скачанный проект. Жмем File -> Import Settings и выбираем settings.jar, что лежит в корневой папке. Скорее всего придется указать свои пути к папке со скачанным Tomcat и указать где лежит java SDK.
+7. Ждем пока Maven накачает вам все зависимости на машину. Запускаем, выбрав в запуске Tomcat 7.
