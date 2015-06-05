@@ -1,0 +1,48 @@
+
+td, th {
+    padding: 25px;
+}
+
+th {
+    width: 400px;
+}
+
+.book-list-table, .book-list-table td, .book-list-table th {
+    border: 3px groove;
+    border-collapse: collapse;
+}
+
+.login-link-container {
+    text-align: right;
+}
+
+.back-link-container {
+    text-align: left;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    text-align: center;
+}
+
+.vcenter {
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+}
+
+.content a {
+    text-decoration: none;
+}
+
+.signup {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.error {
+    color: red;
+}

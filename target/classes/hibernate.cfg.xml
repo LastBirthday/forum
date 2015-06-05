@@ -1,0 +1,11 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <mapping class = "com.springapp.myforum.model.Theme"></mapping>
+        <mapping class = "com.springapp.myforum.model.User"></mapping>
+        <mapping class = "com.springapp.myforum.model.SubTheme"></mapping>
+        <mapping class = "com.springapp.myforum.model.Message"></mapping>
+    </session-factory>
+</hibernate-configuration>
